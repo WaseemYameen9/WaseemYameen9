@@ -1,8 +1,4 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -10,23 +6,20 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
-###
 
 <h1 align="center">hey there 👋</h1>
 My Name is Waseem
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
+I am a passionate programmer with a strong foundation in C#, Javascript and Python. I have experience in both web development and desktop application development, and I am always looking for new challenges to improve my skills.I am a quick learner, and I am always seeking new opportunities to grow and learn. If you have a project that could benefit from my programming skills and problem-solving abilities, don't hesitate to reach out. I am excited to see where my career in computer science takes me in the future.
 
-###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm a 3rd year student at UET Lahore.<br><br>- 🔭 I’m working as an intern at Bookme.pk <br>- 📚 I'm currently learning ML/AI</p>
 
 ###
 
