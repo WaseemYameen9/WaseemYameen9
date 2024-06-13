@@ -22,7 +22,7 @@
 <img src="./banner.png" alt="Cloud-Note Banner" width="10000">
 
 <br>
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi there! 👋</h1>
 <h3 align="left" >My Name is Waseem</h3>
 
 <h3 align="left">👩‍💻  About Me</h3>
