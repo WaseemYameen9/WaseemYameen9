@@ -21,7 +21,7 @@
 
 <img src="./banner.png" alt="Cloud-Note Banner" width="10000">
 <br>
-![Waseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaseemYameen9 &hide=contribs,prs)
+[![Waseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaseemYameen9)](https://github.com/WaseemYameen9/github-readme-stats)
 <br>
 <h1 align="center">Hi there! 👋</h1>
 <h3 align="left" >My Name is Waseem</h3>
