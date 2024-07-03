@@ -21,8 +21,6 @@
 
 <img src="./banner.png" alt="Cloud-Note Banner" width="10000">
 <br>
-[![Waseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaseemYameen9)](https://github.com/WaseemYameen9/github-readme-stats)
-<br>
 <h1 align="center">Hi there! 👋</h1>
 <h3 align="left" >My Name is Waseem</h3>
 
@@ -72,4 +70,6 @@ height="25" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
 
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaseemYameen9)](https://github.com/WaseemYameen9/github-readme-stats)
 
