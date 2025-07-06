@@ -25,11 +25,11 @@
 <h3 align="left" >My Name is Waseem</h3>
 
 <h3 align="left">👩‍💻  About Me</h3>
-<p align="left"> I am a passionate programmer with a strong foundation in C#, Javascript and Python. I have experience in both web development and desktop application development, and I am always looking for new challenges to improve my skills.I am a quick learner, and I am always seeking new opportunities to grow and learn. If you have a project that could benefit from my programming skills and problem-solving abilities, don't hesitate to reach out. I am excited to see where my career in computer science takes me in the future.</p>
+<p align="left"> I am a passionate programmer with a strong foundation in C#, Javascript, Java and Python. I have experience in both web development and desktop application development, and I am always looking for new challenges to improve my skills.I am a quick learner, and I am always seeking new opportunities to grow and learn. If you have a project that could benefit from my programming skills and problem-solving abilities, don't hesitate to reach out.</p>
 <br>
 <br>
 
-<p align="left">- 📚 I'm a 3rd year student at UET Lahore.<br>- 🔭 I’m working as an intern at Bookme.pk <br>- 📚 I'm currently learning ML/AI</p>
+<p align="left">- 📚 I have completed my Bachelors from UET Lahore.<br>- 🔭 I worked as an intern at Bookme.pk <br>- 📚 I'm currently learning ML/AI</p>
 
 <br>
 <br>
