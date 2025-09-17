@@ -78,5 +78,4 @@ height="25" /></a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaseemYameen9)](https://github.com/WaseemYameen9/github-readme-stats)
-[![Waseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaseemYameen9)](https://github.com/WaseemYameen9/github-readme-stats)
 
