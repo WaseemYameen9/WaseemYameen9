@@ -70,9 +70,4 @@ height="25" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
 
 </div>
-<br>
-<br>
-<div>
- <h3 align="left">🛠 My Stats</h3> 
-</div>
 
