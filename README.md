@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<p align="left">- 📚 I have completed my Bachelors from UET Lahore.<br>- 🔭 I worked as an intern at Bookme.pk <br>- 📚 I'm currently learning ML/AI</p>
+<p align="left">- 📚 I have completed my Bachelors from UET Lahore.<br>- 🔭 I worked as a tech intern at Bookme.pk <br>- 💻 I'm currently working as an Associate Software Engineer (MERN) at Desol Int.</p>
 
 <br>
 <br>
