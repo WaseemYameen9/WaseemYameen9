@@ -76,6 +76,3 @@ height="25" /></a>
  <h3 align="left">🛠 My Stats</h3> 
 </div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaseemYameen9)](https://github.com/WaseemYameen9/github-readme-stats)
-
