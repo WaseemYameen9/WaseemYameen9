@@ -25,7 +25,7 @@
 <h3 align="left" >My Name is Waseem</h3>
 
 <h3 align="left">👩‍💻  About Me</h3>
-<p align="left"> I am a passionate programmer with a strong foundation in C#, Javascript, Java and Python. I have experience in both web development and desktop application development, and I am always looking for new challenges to improve my skills.I am a quick learner, and I am always seeking new opportunities to grow and learn. If you have a project that could benefit from my programming skills and problem-solving abilities, don't hesitate to reach out.</p>
+<p align="left"> As a Software Engineer, I specialize in building reliable and scalable systems with a strong command of Data Structures and Algorithms, Databases, Object-Oriented Programming, and Networking. I have worked across both web and desktop application development, gaining hands-on experience with the MERN stack, React Native, Python, and .NET. My focus is on designing efficient, user-centric solutions while continuously learning and adapting to new technologies. I am always eager to take on challenges that enhance my skills and create meaningful impact through software.</p>
 <br>
 <br>
 
